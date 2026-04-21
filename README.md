@@ -1,4 +1,5 @@
 🚀 Professional Networking Platform
+
 A full-stack professional networking application (LinkedIn Clone) designed for sharing insights, managing career portfolios, and connecting with peers. This project emphasizes secure data handling, clean API design, and a responsive user interface.
 
 🛡️ Security Features
