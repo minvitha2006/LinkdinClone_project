@@ -3,6 +3,7 @@
 A full-stack professional networking application (LinkedIn Clone) designed for sharing insights, managing career portfolios, and connecting with peers. This project emphasizes secure data handling, clean API design, and a responsive user interface.
 
 🛡️ Security Features
+
 As this project is developed with a focus on security, the following measures are implemented:
 
 JWT Authentication: Secure session management using JSON Web Tokens.
@@ -16,6 +17,7 @@ Rate Limiting: Protection against automated brute-force attempts on authenticati
 Environment Protection: Use of .env files to ensure sensitive credentials are never exposed in the source code.
 
 🛠️ Tech Stack
+
 Frontend
 React.js: Functional components and Hooks for a dynamic, reactive UI.
 
@@ -35,6 +37,7 @@ This repository is organized as a Monorepo:
 
 Plaintext
 LinkdinClone_project/
+
 ├── frontend/        # React application (UI)
 
 ├── backend/         # Express server (API)
@@ -52,6 +55,7 @@ Setup Backend:
 Bash
 cd backend
 npm install
+
 # Create a .env file with DATABASE_URL and JWT_SECRET
 npm start
 Setup Frontend:
@@ -59,6 +63,7 @@ Setup Frontend:
 Bash
 cd ../frontend
 npm install
+
 # Create a .env file with REACT_APP_API_URL
 npm start
 📸 Core Functionalities
