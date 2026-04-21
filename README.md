@@ -36,8 +36,11 @@ This repository is organized as a Monorepo:
 Plaintext
 LinkdinClone_project/
 ├── frontend/        # React application (UI)
+
 ├── backend/         # Express server (API)
+
 └── README.md        # Project documentation
+
 ⚙️ Installation & Setup
 Clone the Repository:
 
